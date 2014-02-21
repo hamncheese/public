@@ -1,9 +1,8 @@
 SetTitleMatchMode 2
 #SingleInstance Force
 
-GoSub, Loop1
 
-SetTimer, Loop1, 10000
+SetTimer, Loop1, 5000
 
 Loop1:
 	IfWinExist, ExiledBot.exe - Application Error
