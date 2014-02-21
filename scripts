@@ -1,6 +1,0 @@
-	IfWinExist, ExiledBot.exe - Application Error
-	{
-	Controlclick, Button1, ExiledBot.exe - Application Error,, Left, 1
-	sleep 3000	
-	Process, Close, pathofexile.exe
-	}
