@@ -1,6 +1,9 @@
 SetTitleMatchMode 2
 #SingleInstance Force
 
+F10::ExitApp
+F9::Reload
+
 Loop
 {
 	IfWinExist, ExiledBot.exe - Application Error
